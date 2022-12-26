@@ -2,3 +2,8 @@ This is Mouni Sanapala
 On my way to become one of the greatest opensource developers of all time.
 Out of the depths I cry to you, O Lord
 
+
+A second new branch has been created and the changes made in this are not shown nin master and other branches.
+
+Use git merge <branch1> <branch2> to merge changes.
+
